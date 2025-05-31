@@ -66,8 +66,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/JESREAL1JDL7LUSTRE/JESREAL1JDL7LUSTRE/output/snake.svg" alt="Snake animation" />
 
 ###
