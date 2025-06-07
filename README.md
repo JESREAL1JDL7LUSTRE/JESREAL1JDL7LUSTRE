@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://techcrunch.com/wp-content/uploads/2017/07/source.gif?w=720"  />
+<img align="right" height="150" src="source.webp"  />
 
 ###
 
