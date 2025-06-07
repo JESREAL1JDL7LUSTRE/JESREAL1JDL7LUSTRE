@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I’m Jesreal D. Lustre, a computer science student at the University of Science and Technology of Southern Philippines 🇵🇭. I’m passionate about coding 💻, problem-solving 🧠, and exploring new technologies 🚀. Let’s connect and build something amazing together! 🌟</h2>
+<h2 align="left">Hi 👋! I’m Jesreal D. Lustre</h2>
 
 ###
 
